@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "jest": "^29.0.2",
+    "minimist": "^1.2.7",
+    "pg": "^8.8.0",
+    "sequelize": "^6.25.3"
+  },
+  "scripts": {
+    "test": "jest --detectOpenHandles"
+  },
+  "name": "l5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dr. Ahmad Jamal <ahmad@tulas.edu.in>",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
